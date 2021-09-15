@@ -2,7 +2,7 @@
 - 👀 I’m interested in transforming the way we think about online browsing and UI/UX as we enter the nezt stage of digital experience.
 - 🌱 I’m currently learning the basics of Pything and GitHub.
 - 💞️ I’m looking to collaborate on ... not sure yet.
-- 📫 How to reach me ... christian.hincapie1@gmail.com
+- 📫 How to reach me: christian.hincapie1@gmail.com
 
 <!---
 christian-hincs/christian-hincs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
